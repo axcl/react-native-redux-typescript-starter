@@ -1,11 +1,3 @@
-
-## React Native Seed v1.0.0
-
-### A [React Native](https://facebook.github.io/react-native/docs/getting-started.html) Starter Kit with [NativeBase](https://nativebase.io/) + [React Navigation](https://reactnavigation.org/) + [Redux](https://github.com/reactjs/redux) Apps (iOS & Android)
-
-*Brought to you by [GeekyAnts](https://geekyants.com/)*
-
-
 ## Get Started
 
 ### 1. System Requirements
@@ -20,7 +12,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/GeekyAnts/react-native-boilerplate-redux-typescript.git
+$ git clone https://github.com/axcl/react-native-redux-typescript-starter.git
 
 $ cd react-native-boilerplate-redux-typescript/
 
@@ -45,5 +37,3 @@ $ npm install
 	*	Opt #2:
 		*	Run `npm run android` in your terminal
 
-
-For apps with more advance designs, please visit **[NativeBase Market](https://market.nativebase.io/)**.

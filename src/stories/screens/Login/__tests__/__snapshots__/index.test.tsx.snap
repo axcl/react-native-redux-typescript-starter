@@ -78,7 +78,7 @@ exports[`renders correctly 1`] = `
           }
           virtual={undefined}
         >
-          ReactNativeSeed.com
+          ReactNativeStarter.com
         </Text>
         <View
           padder={true}
